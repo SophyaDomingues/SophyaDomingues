@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=923E28&width=435&lines=Hello+World!+I'm+Sophya+Domingues.;Wellcome+to+my+GitHub+profille!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=923E28&width=435&lines=Hello+World!+I'm+Sophya+Domingues.;Welcome+to+my+GitHub+profille!)](https://git.io/typing-svg)
 
 <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="Pixel Art" align="right" width="300">
 
