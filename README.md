@@ -8,20 +8,10 @@
   <img align="center" alt="Sophya-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sophya-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sophya-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sophya-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">      
   <img align="center" alt="Sophya-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Sophya-Oracle" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
           
 </div><br>
-
-### GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/SophyaDomingues">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=SophyaDomingues&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophyaDomingues&layout=compact&langs_count=7&theme=moltack"/>
-  </a>
-</div>
     
 ### Contact
 
